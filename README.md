@@ -1,4 +1,4 @@
-# antd-submit-admin
+# antd-admin-vue2
 
 ## Project setup
 ```
